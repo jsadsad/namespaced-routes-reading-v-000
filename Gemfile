@@ -38,7 +38,6 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.0'
   gem 'capybara'
   gem 'database_cleaner'
-  gem 'bundler', '~> 1.3.0'
 end
 
 group :development do
